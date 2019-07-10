@@ -1,0 +1,42 @@
+#def calculate(ADD,2,4):
+#	result=2+4
+#	return result
+
+
+def add(a, b):
+	res = a + b
+	return res
+
+r = add(2, 4)
+
+print("addition:",r)
+
+
+
+#subtraction
+def subtract(a, b):
+        sub = a - b
+        return sub
+s = subtract(2, 4)
+
+print("addition:",s)
+
+
+#multiplication
+def multiply(a, b):
+        mult = a * b
+        return mult
+
+m = multiply(2, 4)
+
+print("addition:",r)
+
+
+#division
+def devide(a, b):
+        dev = a + b/
+        return devide
+
+d = devide(2, 4)
+
+print("additiod)
